@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrae
 - 👀 I’m interested in CMS/DXP topics
-- 🌱 I’m currently learning and adding headless approaches in the CMS and DXP Space to my portfolio
-- 📫 How to reach me ...
+- 🌱 I’m currently adding headless approaches in the CMS and DXP Space to my portfolio
+- 📫 How to reach me https://www.linkedin.com/in/andraegoldhahn/
 
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
