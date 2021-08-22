@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrae
-- 👀 I’m interested in CMS/DXP topics
-- 🌱 I’m currently adding headless approaches in the CMS and DXP Space to my portfolio
+- 👀 I’m interested in CRM/DXP/CMS/Headless topics
+- 🌱 I’m currently adding composable techstack approaches to my portfolio
 - 📫 How to reach me https://www.linkedin.com/in/andraegoldhahn/
 
 
