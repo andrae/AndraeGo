@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @andrae
-- 👀 I’m interested in CRM/DXP/CMS/Headless topics
-- 🌱 I’m currently adding composable techstack approaches to my portfolio
+- 👀 I’m interested integrating Marketing Automation with CRM/DXP/CMS/Headless solutions
 - 📫 How to reach me https://www.linkedin.com/in/andraegoldhahn/
 
 
